@@ -1,2 +1,2 @@
 # ArithPaper
-This is the electronical paper app.
+This is an electronical paper app.
